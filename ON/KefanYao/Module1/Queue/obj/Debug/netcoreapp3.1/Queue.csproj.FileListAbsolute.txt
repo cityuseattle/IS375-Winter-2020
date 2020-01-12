@@ -1,0 +1,11 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
