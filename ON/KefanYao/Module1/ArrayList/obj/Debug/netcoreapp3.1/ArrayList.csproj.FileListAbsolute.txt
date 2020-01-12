@@ -1,0 +1,10 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module1\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb
