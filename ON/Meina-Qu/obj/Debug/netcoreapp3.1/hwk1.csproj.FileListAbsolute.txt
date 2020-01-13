@@ -1,0 +1,11 @@
+/Users/qumeina/Projects/hwk1/hwk1/bin/Debug/netcoreapp3.1/hwk1
+/Users/qumeina/Projects/hwk1/hwk1/bin/Debug/netcoreapp3.1/hwk1.deps.json
+/Users/qumeina/Projects/hwk1/hwk1/bin/Debug/netcoreapp3.1/hwk1.runtimeconfig.json
+/Users/qumeina/Projects/hwk1/hwk1/bin/Debug/netcoreapp3.1/hwk1.runtimeconfig.dev.json
+/Users/qumeina/Projects/hwk1/hwk1/bin/Debug/netcoreapp3.1/hwk1.dll
+/Users/qumeina/Projects/hwk1/hwk1/bin/Debug/netcoreapp3.1/hwk1.pdb
+/Users/qumeina/Projects/hwk1/hwk1/obj/Debug/netcoreapp3.1/hwk1.csprojAssemblyReference.cache
+/Users/qumeina/Projects/hwk1/hwk1/obj/Debug/netcoreapp3.1/hwk1.AssemblyInfoInputs.cache
+/Users/qumeina/Projects/hwk1/hwk1/obj/Debug/netcoreapp3.1/hwk1.AssemblyInfo.cs
+/Users/qumeina/Projects/hwk1/hwk1/obj/Debug/netcoreapp3.1/hwk1.dll
+/Users/qumeina/Projects/hwk1/hwk1/obj/Debug/netcoreapp3.1/hwk1.pdb
