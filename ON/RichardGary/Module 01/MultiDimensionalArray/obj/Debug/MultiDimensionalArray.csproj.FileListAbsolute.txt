@@ -1,0 +1,7 @@
+C:\Users\rgary\Documents\career\City University of Seattle\2020\01, Winter\IS 375\GitHub\repos\ON\RichardGary\Module 01\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe.config
+C:\Users\rgary\Documents\career\City University of Seattle\2020\01, Winter\IS 375\GitHub\repos\ON\RichardGary\Module 01\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe
+C:\Users\rgary\Documents\career\City University of Seattle\2020\01, Winter\IS 375\GitHub\repos\ON\RichardGary\Module 01\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.pdb
+C:\Users\rgary\Documents\career\City University of Seattle\2020\01, Winter\IS 375\GitHub\repos\ON\RichardGary\Module 01\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.csprojAssemblyReference.cache
+C:\Users\rgary\Documents\career\City University of Seattle\2020\01, Winter\IS 375\GitHub\repos\ON\RichardGary\Module 01\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\rgary\Documents\career\City University of Seattle\2020\01, Winter\IS 375\GitHub\repos\ON\RichardGary\Module 01\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.exe
+C:\Users\rgary\Documents\career\City University of Seattle\2020\01, Winter\IS 375\GitHub\repos\ON\RichardGary\Module 01\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.pdb
