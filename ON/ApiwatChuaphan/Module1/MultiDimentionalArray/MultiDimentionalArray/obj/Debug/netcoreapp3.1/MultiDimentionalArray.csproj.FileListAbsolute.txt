@@ -1,0 +1,11 @@
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\bin\Debug\netcoreapp3.1\MultiDimentionalArray.exe
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\bin\Debug\netcoreapp3.1\MultiDimentionalArray.deps.json
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\bin\Debug\netcoreapp3.1\MultiDimentionalArray.runtimeconfig.json
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\bin\Debug\netcoreapp3.1\MultiDimentionalArray.runtimeconfig.dev.json
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\bin\Debug\netcoreapp3.1\MultiDimentionalArray.dll
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\bin\Debug\netcoreapp3.1\MultiDimentionalArray.pdb
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\obj\Debug\netcoreapp3.1\MultiDimentionalArray.csprojAssemblyReference.cache
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\obj\Debug\netcoreapp3.1\MultiDimentionalArray.AssemblyInfoInputs.cache
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\obj\Debug\netcoreapp3.1\MultiDimentionalArray.AssemblyInfo.cs
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\obj\Debug\netcoreapp3.1\MultiDimentionalArray.dll
+C:\Users\WATNEY\Desktop\test\IS375-Winter-2020\ON\ApiwatChuaphan\Module1\MultiDimentionalArray\MultiDimentionalArray\obj\Debug\netcoreapp3.1\MultiDimentionalArray.pdb
