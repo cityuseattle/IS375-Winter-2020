@@ -1,0 +1,6 @@
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\PE01\PE01\bin\Debug\PE01.exe.config
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\PE01\PE01\bin\Debug\PE01.exe
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\PE01\PE01\bin\Debug\PE01.pdb
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\PE01\PE01\obj\Debug\PE01.csprojAssemblyReference.cache
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\PE01\PE01\obj\Debug\PE01.exe
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\PE01\PE01\obj\Debug\PE01.pdb
