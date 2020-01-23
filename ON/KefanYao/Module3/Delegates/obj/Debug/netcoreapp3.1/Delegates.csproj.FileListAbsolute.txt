@@ -1,0 +1,11 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb

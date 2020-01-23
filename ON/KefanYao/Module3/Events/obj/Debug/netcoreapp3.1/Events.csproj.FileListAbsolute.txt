@@ -1,0 +1,10 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module3\Events\obj\Debug\netcoreapp3.1\Events.pdb
