@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\bin\Debug\netcoreapp3.0\TwoDimensionalArray.exe
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\bin\Debug\netcoreapp3.0\TwoDimensionalArray.deps.json
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\bin\Debug\netcoreapp3.0\TwoDimensionalArray.runtimeconfig.json
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\bin\Debug\netcoreapp3.0\TwoDimensionalArray.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\bin\Debug\netcoreapp3.0\TwoDimensionalArray.dll
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\bin\Debug\netcoreapp3.0\TwoDimensionalArray.pdb
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\obj\Debug\netcoreapp3.0\TwoDimensionalArray.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\obj\Debug\netcoreapp3.0\TwoDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\obj\Debug\netcoreapp3.0\TwoDimensionalArray.AssemblyInfo.cs
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\obj\Debug\netcoreapp3.0\TwoDimensionalArray.dll
+C:\Users\Nicolas Conti\Desktop\City University\CS131\NCONTI Assignment 1\TwoDimensionalArray\obj\Debug\netcoreapp3.0\TwoDimensionalArray.pdb

@@ -1,0 +1,9 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\bin\Debug\HelloForm.exe.config
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\bin\Debug\HelloForm.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\bin\Debug\HelloForm.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\obj\Debug\HelloForm.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\obj\Debug\HelloForm.Form1.resources
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\obj\Debug\HelloForm.Properties.Resources.resources
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\obj\Debug\HelloForm.csproj.GenerateResource.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\obj\Debug\HelloForm.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\HelloForm\obj\Debug\HelloForm.pdb
