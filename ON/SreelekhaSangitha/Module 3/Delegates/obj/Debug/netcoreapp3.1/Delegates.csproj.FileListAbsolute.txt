@@ -1,0 +1,11 @@
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\sangi\OneDrive\Documents\IS 375\Module 3\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
