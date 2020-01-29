@@ -1,9 +1,0 @@
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.exe.config
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.exe
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.pdb
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csprojAssemblyReference.cache
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Form1.resources
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Properties.Resources.resources
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.GenerateResource.cache
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.exe
-C:\Users\Amin\Desktop\Courses\IS-375\PL02\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.pdb
