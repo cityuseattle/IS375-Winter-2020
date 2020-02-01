@@ -1,0 +1,10 @@
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfoInputs.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfo.cs
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.exe
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.deps.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.dev.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.pdb
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.pdb
