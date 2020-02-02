@@ -1,0 +1,10 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.pdb

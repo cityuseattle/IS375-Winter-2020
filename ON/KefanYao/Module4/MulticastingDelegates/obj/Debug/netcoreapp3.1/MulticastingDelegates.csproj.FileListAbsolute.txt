@@ -1,0 +1,11 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.csprojAssemblyReference.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.pdb
