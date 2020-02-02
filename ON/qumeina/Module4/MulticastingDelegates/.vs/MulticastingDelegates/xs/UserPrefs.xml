@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{056DB46C-1A50-4C8C-9252-20D6082C6648}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MulticastingDelegates/Program.cs">
+    <Files>
+      <File FileName="MulticastingDelegates/Program.cs" Line="20" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MulticastingDelegates" expanded="True">
+            <Node name="MulticastingDelegates" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MulticastingDelegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

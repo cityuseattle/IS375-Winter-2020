@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/MulticastingDelegates/MulticastingDelegates/bin/Debug/MulticastingDelegates.exe
+/Users/qumeina/Projects/MulticastingDelegates/MulticastingDelegates/bin/Debug/MulticastingDelegates.pdb
+/Users/qumeina/Projects/MulticastingDelegates/MulticastingDelegates/obj/Debug/MulticastingDelegates.csprojAssemblyReference.cache
+/Users/qumeina/Projects/MulticastingDelegates/MulticastingDelegates/obj/Debug/MulticastingDelegates.exe
+/Users/qumeina/Projects/MulticastingDelegates/MulticastingDelegates/obj/Debug/MulticastingDelegates.pdb
