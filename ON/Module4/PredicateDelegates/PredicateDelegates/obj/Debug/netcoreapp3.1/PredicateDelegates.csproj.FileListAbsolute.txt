@@ -1,0 +1,11 @@
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.deps.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.dev.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfoInputs.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfo.cs
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\PredicateDelegates\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.pdb
