@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module5\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module 4\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module5\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module 4\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Chang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module5\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module 4\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chang\\AppData\\Roaming\\NuGet\\NuGet.Config",
