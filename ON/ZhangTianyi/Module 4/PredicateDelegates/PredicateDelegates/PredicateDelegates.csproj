@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\Chang\Desktop\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\Chang\Desktop\PredicateDelegates.cs" Link="PredicateDelegates.cs" />
   </ItemGroup>
 
 </Project>
