@@ -1,0 +1,9 @@
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\bin\Debug\WinPrac1.exe.config
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\bin\Debug\WinPrac1.exe
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\bin\Debug\WinPrac1.pdb
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\obj\Debug\WinPrac1.csprojAssemblyReference.cache
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\obj\Debug\WinPrac1.Form1.resources
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\obj\Debug\WinPrac1.Properties.Resources.resources
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\obj\Debug\WinPrac1.csproj.GenerateResource.cache
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\obj\Debug\WinPrac1.exe
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module2\Prac2\WinPrac1\WinPrac1\obj\Debug\WinPrac1.pdb
