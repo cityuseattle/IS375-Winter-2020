@@ -1,0 +1,10 @@
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
