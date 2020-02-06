@@ -1,0 +1,10 @@
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\bin\Debug\netcoreapp3.0\DynamicPolymprphism.exe
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\bin\Debug\netcoreapp3.0\DynamicPolymprphism.deps.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\bin\Debug\netcoreapp3.0\DynamicPolymprphism.runtimeconfig.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\bin\Debug\netcoreapp3.0\DynamicPolymprphism.runtimeconfig.dev.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\bin\Debug\netcoreapp3.0\DynamicPolymprphism.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\bin\Debug\netcoreapp3.0\DynamicPolymprphism.pdb
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\obj\Debug\netcoreapp3.0\DynamicPolymprphism.AssemblyInfoInputs.cache
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\obj\Debug\netcoreapp3.0\DynamicPolymprphism.AssemblyInfo.cs
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\obj\Debug\netcoreapp3.0\DynamicPolymprphism.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\DynamicPolymprphism\DynamicPolymprphism\obj\Debug\netcoreapp3.0\DynamicPolymprphism.pdb

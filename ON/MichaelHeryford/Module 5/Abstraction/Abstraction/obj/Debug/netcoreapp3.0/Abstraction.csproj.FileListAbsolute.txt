@@ -1,0 +1,11 @@
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\bin\Debug\netcoreapp3.0\Abstraction.exe
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\bin\Debug\netcoreapp3.0\Abstraction.deps.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\bin\Debug\netcoreapp3.0\Abstraction.runtimeconfig.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\bin\Debug\netcoreapp3.0\Abstraction.runtimeconfig.dev.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\bin\Debug\netcoreapp3.0\Abstraction.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\bin\Debug\netcoreapp3.0\Abstraction.pdb
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\obj\Debug\netcoreapp3.0\Abstraction.csprojAssemblyReference.cache
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\obj\Debug\netcoreapp3.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\obj\Debug\netcoreapp3.0\Abstraction.AssemblyInfo.cs
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\obj\Debug\netcoreapp3.0\Abstraction.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 5\Abstraction\Abstraction\obj\Debug\netcoreapp3.0\Abstraction.pdb
