@@ -1,0 +1,10 @@
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\bin\Debug\netcoreapp3.0\StaticPolymprphism.exe
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\bin\Debug\netcoreapp3.0\StaticPolymprphism.deps.json
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\bin\Debug\netcoreapp3.0\StaticPolymprphism.runtimeconfig.json
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\bin\Debug\netcoreapp3.0\StaticPolymprphism.runtimeconfig.dev.json
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\bin\Debug\netcoreapp3.0\StaticPolymprphism.dll
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\bin\Debug\netcoreapp3.0\StaticPolymprphism.pdb
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\obj\Debug\netcoreapp3.0\StaticPolymprphism.AssemblyInfoInputs.cache
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\obj\Debug\netcoreapp3.0\StaticPolymprphism.AssemblyInfo.cs
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\obj\Debug\netcoreapp3.0\StaticPolymprphism.dll
+C:\Users\RnG Wajeiha\source\repos\StaticPolymprphism\StaticPolymprphism\obj\Debug\netcoreapp3.0\StaticPolymprphism.pdb

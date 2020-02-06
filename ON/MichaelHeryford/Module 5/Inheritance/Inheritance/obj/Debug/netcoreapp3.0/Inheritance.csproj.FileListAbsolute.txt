@@ -1,0 +1,11 @@
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.exe
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.deps.json
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.runtimeconfig.json
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.runtimeconfig.dev.json
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.dll
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.pdb
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.csprojAssemblyReference.cache
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.AssemblyInfo.cs
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.dll
+C:\Users\RnG Wajeiha\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.pdb
