@@ -1,0 +1,22 @@
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/bin/Debug/netcoreapp3.1/Abstraction
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.deps.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.runtimeconfig.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.runtimeconfig.dev.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.dll
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.pdb
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.csprojAssemblyReference.cache
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.AssemblyInfoInputs.cache
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.AssemblyInfo.cs
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.dll
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Abstraction/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module5\Module5\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
