@@ -1,0 +1,11 @@
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.csprojAssemblyReference.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfoInputs.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfo.cs
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.exe
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.deps.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.dev.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.pdb
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.pdb
