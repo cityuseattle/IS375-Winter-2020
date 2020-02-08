@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPolymprphism", "DynamicPolymprphism.csproj", "{8931E5EC-FB18-409F-8CC2-BB5F04090F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8931E5EC-FB18-409F-8CC2-BB5F04090F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8931E5EC-FB18-409F-8CC2-BB5F04090F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8931E5EC-FB18-409F-8CC2-BB5F04090F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8931E5EC-FB18-409F-8CC2-BB5F04090F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199C8A4A-BA31-4C17-A0FE-218C883E4370}
+	EndGlobalSection
+EndGlobal

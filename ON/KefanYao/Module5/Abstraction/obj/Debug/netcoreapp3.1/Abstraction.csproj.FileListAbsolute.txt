@@ -1,0 +1,11 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb

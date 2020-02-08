@@ -1,0 +1,10 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\bin\Debug\netcoreapp3.1\StaticPolymprphism.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\bin\Debug\netcoreapp3.1\StaticPolymprphism.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\bin\Debug\netcoreapp3.1\StaticPolymprphism.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\bin\Debug\netcoreapp3.1\StaticPolymprphism.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\bin\Debug\netcoreapp3.1\StaticPolymprphism.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\bin\Debug\netcoreapp3.1\StaticPolymprphism.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\obj\Debug\netcoreapp3.1\StaticPolymprphism.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\obj\Debug\netcoreapp3.1\StaticPolymprphism.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\obj\Debug\netcoreapp3.1\StaticPolymprphism.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module5\StaticPolymprphism\obj\Debug\netcoreapp3.1\StaticPolymprphism.pdb
