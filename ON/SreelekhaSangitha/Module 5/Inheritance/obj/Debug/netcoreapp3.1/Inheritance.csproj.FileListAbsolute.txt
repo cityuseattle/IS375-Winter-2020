@@ -1,0 +1,11 @@
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
