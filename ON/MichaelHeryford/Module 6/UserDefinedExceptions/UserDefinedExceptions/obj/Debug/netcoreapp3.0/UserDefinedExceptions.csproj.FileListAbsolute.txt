@@ -1,0 +1,10 @@
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.exe
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.deps.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.runtimeconfig.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.runtimeconfig.dev.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.pdb
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.0\UserDefinedExceptions.AssemblyInfoInputs.cache
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.0\UserDefinedExceptions.AssemblyInfo.cs
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.0\UserDefinedExceptions.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.0\UserDefinedExceptions.pdb

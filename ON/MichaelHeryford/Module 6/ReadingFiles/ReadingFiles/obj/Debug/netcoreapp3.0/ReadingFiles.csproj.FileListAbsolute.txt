@@ -1,0 +1,10 @@
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.exe
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.deps.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.runtimeconfig.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.runtimeconfig.dev.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.pdb
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.0\ReadingFiles.AssemblyInfoInputs.cache
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.0\ReadingFiles.AssemblyInfo.cs
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.0\ReadingFiles.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.0\ReadingFiles.pdb

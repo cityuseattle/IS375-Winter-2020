@@ -1,0 +1,11 @@
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.0\DivideByZero.exe
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.0\DivideByZero.deps.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.0\DivideByZero.runtimeconfig.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.0\DivideByZero.runtimeconfig.dev.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.0\DivideByZero.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.0\DivideByZero.pdb
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.0\DivideByZero.csprojAssemblyReference.cache
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.0\DivideByZero.AssemblyInfoInputs.cache
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.0\DivideByZero.AssemblyInfo.cs
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.0\DivideByZero.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.0\DivideByZero.pdb

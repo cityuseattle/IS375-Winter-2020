@@ -1,0 +1,10 @@
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.exe
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.deps.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.runtimeconfig.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.runtimeconfig.dev.json
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.pdb
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.AssemblyInfoInputs.cache
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.AssemblyInfo.cs
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.dll
+C:\Users\RnG Wajeiha\source\repos\cityuseattle\IS375-Winter-2020\ON\MichaelHeryford\Module 6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.pdb
