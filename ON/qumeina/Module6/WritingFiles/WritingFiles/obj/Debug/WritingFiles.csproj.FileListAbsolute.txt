@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/WritingFiles/WritingFiles/obj/Debug/WritingFiles.csprojAssemblyReference.cache
+/Users/qumeina/Projects/WritingFiles/WritingFiles/bin/Debug/WritingFiles.exe
+/Users/qumeina/Projects/WritingFiles/WritingFiles/bin/Debug/WritingFiles.pdb
+/Users/qumeina/Projects/WritingFiles/WritingFiles/obj/Debug/WritingFiles.exe
+/Users/qumeina/Projects/WritingFiles/WritingFiles/obj/Debug/WritingFiles.pdb
