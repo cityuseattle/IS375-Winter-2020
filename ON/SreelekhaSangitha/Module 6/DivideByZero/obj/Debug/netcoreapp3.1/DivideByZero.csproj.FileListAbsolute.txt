@@ -1,0 +1,11 @@
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.exe
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.deps.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.dev.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.pdb
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.csprojAssemblyReference.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfoInputs.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfo.cs
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.pdb

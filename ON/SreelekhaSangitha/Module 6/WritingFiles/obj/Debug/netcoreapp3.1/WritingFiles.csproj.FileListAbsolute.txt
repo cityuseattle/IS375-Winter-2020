@@ -1,0 +1,10 @@
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.exe
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.deps.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.runtimeconfig.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.runtimeconfig.dev.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.pdb
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.AssemblyInfoInputs.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.AssemblyInfo.cs
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.pdb

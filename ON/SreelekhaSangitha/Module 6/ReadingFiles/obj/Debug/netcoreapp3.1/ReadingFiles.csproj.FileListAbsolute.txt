@@ -1,0 +1,11 @@
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.exe
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.deps.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.runtimeconfig.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.runtimeconfig.dev.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.pdb
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.csprojAssemblyReference.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.AssemblyInfoInputs.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.AssemblyInfo.cs
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.pdb
