@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module6\\DivideByZero\\DivideByZero\\DivideByZero.csproj",
+      "projectName": "DivideByZero",
+      "projectPath": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module6\\DivideByZero\\DivideByZero\\DivideByZero.csproj",
       "packagesPath": "C:\\Users\\Chang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module6\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Chang\\Desktop\\IS375\\IS375-Winter-2020\\ON\\ZhangTianyi\\Module6\\DivideByZero\\DivideByZero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chang\\AppData\\Roaming\\NuGet\\NuGet.Config",
