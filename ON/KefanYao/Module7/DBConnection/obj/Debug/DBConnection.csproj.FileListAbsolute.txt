@@ -1,0 +1,9 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module7\DBConnection\obj\Debug\DBConnection.pdb

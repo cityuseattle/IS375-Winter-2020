@@ -1,0 +1,10 @@
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.exe
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.deps.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.runtimeconfig.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.runtimeconfig.dev.json
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.pdb
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.AssemblyInfoInputs.cache
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.AssemblyInfo.cs
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.dll
+C:\Users\Night\source\repos\drinkwater777\IS375_Winter_2020\ON\KefanYao\Module6\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.pdb
