@@ -1,0 +1,9 @@
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\obj\Debug\DBCConnection.csprojAssemblyReference.cache
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\obj\Debug\DBCConnection.Form1.resources
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\obj\Debug\DBCConnection.Properties.Resources.resources
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\obj\Debug\DBCConnection.csproj.GenerateResource.cache
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\bin\Debug\DBCConnection.exe.config
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\bin\Debug\DBCConnection.exe
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\bin\Debug\DBCConnection.pdb
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\obj\Debug\DBCConnection.exe
+C:\Users\Chang\Desktop\IS375\IS375-Winter-2020\ON\ZhangTianyi\Module7\DBCConnection\DBCConnection\obj\Debug\DBCConnection.pdb
