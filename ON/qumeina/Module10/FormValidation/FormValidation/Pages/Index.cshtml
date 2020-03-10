@@ -1,0 +1,59 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Register</h1>
+    <form method="post" asp-page="index">
+        <table>
+            <tr>
+                <td>Username</td>
+                <td>
+                    <input asp-for="@Model.account.Username" />
+                </td>
+                <td>
+                    <span asp-validation-for="@Model.account.Username" class="error"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>
+                    <input type="password" asp-for="@Model.account.Password" />
+                </td>
+                <td>
+                    <span asp-validation-for="@Model.account.Password" class="error"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Age</td>
+                <td>
+                    <input asp-for="@Model.account.Age" />
+                </td>
+                <td>
+                    <span asp-validation-for="@Model.account.Age" class="error"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td>
+                    <input asp-for="@Model.account.Email" />
+                </td>
+                <td>
+                    <span asp-validation-for="@Model.account.Email" class="error"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+                    <input type="submit" vaue="Save"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
