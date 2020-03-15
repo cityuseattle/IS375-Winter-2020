@@ -1,0 +1,13 @@
+c:\users\85339\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+c:\users\85339\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+c:\users\85339\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+c:\users\85339\source\repos\DBConnection\DBConnection\bin\Debug\System.Data.SqlClient.dll
+c:\users\85339\source\repos\DBConnection\DBConnection\bin\Debug\System.Data.SqlClient.xml
+c:\users\85339\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+c:\users\85339\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+c:\users\85339\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+c:\users\85339\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+c:\users\85339\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+c:\users\85339\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CopyComplete
+c:\users\85339\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+c:\users\85339\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
