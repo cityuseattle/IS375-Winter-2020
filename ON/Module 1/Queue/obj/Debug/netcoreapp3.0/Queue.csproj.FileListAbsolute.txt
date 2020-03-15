@@ -1,0 +1,10 @@
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\bin\Debug\netcoreapp3.0\Queue.exe
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\bin\Debug\netcoreapp3.0\Queue.deps.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\bin\Debug\netcoreapp3.0\Queue.runtimeconfig.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\bin\Debug\netcoreapp3.0\Queue.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\bin\Debug\netcoreapp3.0\Queue.dll
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\bin\Debug\netcoreapp3.0\Queue.pdb
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\obj\Debug\netcoreapp3.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\obj\Debug\netcoreapp3.0\Queue.AssemblyInfo.cs
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\obj\Debug\netcoreapp3.0\Queue.dll
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Queue\obj\Debug\netcoreapp3.0\Queue.pdb

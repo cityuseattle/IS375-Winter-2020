@@ -1,0 +1,11 @@
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/bin/Debug/netcoreapp3.1/StaticPolymorphism
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/bin/Debug/netcoreapp3.1/StaticPolymorphism.deps.json
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/bin/Debug/netcoreapp3.1/StaticPolymorphism.runtimeconfig.json
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/bin/Debug/netcoreapp3.1/StaticPolymorphism.runtimeconfig.dev.json
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/bin/Debug/netcoreapp3.1/StaticPolymorphism.dll
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/bin/Debug/netcoreapp3.1/StaticPolymorphism.pdb
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/obj/Debug/netcoreapp3.1/StaticPolymorphism.csprojAssemblyReference.cache
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/obj/Debug/netcoreapp3.1/StaticPolymorphism.AssemblyInfoInputs.cache
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/obj/Debug/netcoreapp3.1/StaticPolymorphism.AssemblyInfo.cs
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/obj/Debug/netcoreapp3.1/StaticPolymorphism.dll
+/Users/gabbywargin/Projects/StaticPolymorphism/StaticPolymorphism/obj/Debug/netcoreapp3.1/StaticPolymorphism.pdb

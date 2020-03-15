@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/UserDefinedExceptions/UserDefinedExceptions/obj/Debug/UserDefinedExceptions.csprojAssemblyReference.cache
+/Users/qumeina/Projects/UserDefinedExceptions/UserDefinedExceptions/bin/Debug/UserDefinedExceptions.exe
+/Users/qumeina/Projects/UserDefinedExceptions/UserDefinedExceptions/bin/Debug/UserDefinedExceptions.pdb
+/Users/qumeina/Projects/UserDefinedExceptions/UserDefinedExceptions/obj/Debug/UserDefinedExceptions.exe
+/Users/qumeina/Projects/UserDefinedExceptions/UserDefinedExceptions/obj/Debug/UserDefinedExceptions.pdb

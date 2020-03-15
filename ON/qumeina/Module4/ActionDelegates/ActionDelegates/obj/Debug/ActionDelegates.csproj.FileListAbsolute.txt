@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/ActionDelegates/ActionDelegates/bin/Debug/ActionDelegates.exe
+/Users/qumeina/Projects/ActionDelegates/ActionDelegates/bin/Debug/ActionDelegates.pdb
+/Users/qumeina/Projects/ActionDelegates/ActionDelegates/obj/Debug/ActionDelegates.csprojAssemblyReference.cache
+/Users/qumeina/Projects/ActionDelegates/ActionDelegates/obj/Debug/ActionDelegates.exe
+/Users/qumeina/Projects/ActionDelegates/ActionDelegates/obj/Debug/ActionDelegates.pdb

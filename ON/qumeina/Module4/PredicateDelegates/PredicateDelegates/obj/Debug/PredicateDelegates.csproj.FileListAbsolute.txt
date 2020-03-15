@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/PredicateDelegates/PredicateDelegates/bin/Debug/PredicateDelegates.exe
+/Users/qumeina/Projects/PredicateDelegates/PredicateDelegates/bin/Debug/PredicateDelegates.pdb
+/Users/qumeina/Projects/PredicateDelegates/PredicateDelegates/obj/Debug/PredicateDelegates.csprojAssemblyReference.cache
+/Users/qumeina/Projects/PredicateDelegates/PredicateDelegates/obj/Debug/PredicateDelegates.exe
+/Users/qumeina/Projects/PredicateDelegates/PredicateDelegates/obj/Debug/PredicateDelegates.pdb

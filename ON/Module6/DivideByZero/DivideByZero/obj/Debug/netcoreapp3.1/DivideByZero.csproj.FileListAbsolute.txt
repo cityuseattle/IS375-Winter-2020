@@ -1,0 +1,11 @@
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.deps.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.dev.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfoInputs.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfo.cs
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\DivideByZero\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.pdb
