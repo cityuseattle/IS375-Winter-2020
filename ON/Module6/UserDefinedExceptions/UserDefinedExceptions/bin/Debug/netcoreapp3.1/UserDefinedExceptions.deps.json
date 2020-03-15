@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UserDefinedExceptions/1.0.0": {
+        "runtime": {
+          "UserDefinedExceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserDefinedExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
