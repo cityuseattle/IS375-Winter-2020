@@ -1,0 +1,11 @@
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.exe
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.deps.json
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.runtimeconfig.json
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.runtimeconfig.dev.json
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.dll
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.pdb
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.csprojAssemblyReference.cache
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.AssemblyInfoInputs.cache
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.AssemblyInfo.cs
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.dll
+C:\Users\Chang\Desktop\IS375_Winter_2020INZhangTianyiModule4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.pdb
