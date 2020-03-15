@@ -1,0 +1,11 @@
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.deps.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.runtimeconfig.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.runtimeconfig.dev.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.AssemblyInfoInputs.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.AssemblyInfo.cs
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.pdb

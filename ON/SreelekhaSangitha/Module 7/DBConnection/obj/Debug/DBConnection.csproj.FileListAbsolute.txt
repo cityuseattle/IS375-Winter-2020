@@ -1,0 +1,9 @@
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 7\DBConnection\obj\Debug\DBConnection.pdb

@@ -1,0 +1,10 @@
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.exe
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.deps.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.dev.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.pdb
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfo.cs
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.pdb

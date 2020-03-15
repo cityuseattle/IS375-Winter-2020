@@ -1,0 +1,11 @@
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\obj\Debug\netcoreapp3.1\DynamicPolymprphism.csprojAssemblyReference.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\obj\Debug\netcoreapp3.1\DynamicPolymprphism.AssemblyInfoInputs.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\obj\Debug\netcoreapp3.1\DynamicPolymprphism.AssemblyInfo.cs
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\bin\Debug\netcoreapp3.1\DynamicPolymprphism.exe
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\bin\Debug\netcoreapp3.1\DynamicPolymprphism.deps.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\bin\Debug\netcoreapp3.1\DynamicPolymprphism.runtimeconfig.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\bin\Debug\netcoreapp3.1\DynamicPolymprphism.runtimeconfig.dev.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\bin\Debug\netcoreapp3.1\DynamicPolymprphism.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\bin\Debug\netcoreapp3.1\DynamicPolymprphism.pdb
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\obj\Debug\netcoreapp3.1\DynamicPolymprphism.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\DynamicPolymprphism\obj\Debug\netcoreapp3.1\DynamicPolymprphism.pdb

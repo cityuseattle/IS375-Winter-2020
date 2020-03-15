@@ -1,0 +1,11 @@
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csprojAssemblyReference.cache
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\Amin\source\repos\Amin747\IS375_Winter_2020\ON\AminElhami\Module1\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb

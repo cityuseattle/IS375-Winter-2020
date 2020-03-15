@@ -1,0 +1,11 @@
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\bin\Debug\netcoreapp3.1\UserDefinedException.exe
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\bin\Debug\netcoreapp3.1\UserDefinedException.deps.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\bin\Debug\netcoreapp3.1\UserDefinedException.runtimeconfig.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\bin\Debug\netcoreapp3.1\UserDefinedException.runtimeconfig.dev.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\bin\Debug\netcoreapp3.1\UserDefinedException.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\bin\Debug\netcoreapp3.1\UserDefinedException.pdb
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\obj\Debug\netcoreapp3.1\UserDefinedException.csprojAssemblyReference.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\obj\Debug\netcoreapp3.1\UserDefinedException.AssemblyInfoInputs.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\obj\Debug\netcoreapp3.1\UserDefinedException.AssemblyInfo.cs
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\obj\Debug\netcoreapp3.1\UserDefinedException.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module6\UserDefinedException\obj\Debug\netcoreapp3.1\UserDefinedException.pdb

@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/ReadingFiles/ReadingFiles/bin/Debug/ReadingFiles.exe
+/Users/qumeina/Projects/ReadingFiles/ReadingFiles/bin/Debug/ReadingFiles.pdb
+/Users/qumeina/Projects/ReadingFiles/ReadingFiles/obj/Debug/ReadingFiles.csprojAssemblyReference.cache
+/Users/qumeina/Projects/ReadingFiles/ReadingFiles/obj/Debug/ReadingFiles.exe
+/Users/qumeina/Projects/ReadingFiles/ReadingFiles/obj/Debug/ReadingFiles.pdb

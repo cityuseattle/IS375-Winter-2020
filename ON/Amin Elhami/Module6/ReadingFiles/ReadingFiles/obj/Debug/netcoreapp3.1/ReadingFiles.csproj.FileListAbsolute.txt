@@ -1,0 +1,10 @@
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.AssemblyInfo.cs
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.exe
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.deps.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.runtimeconfig.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.runtimeconfig.dev.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.pdb
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.pdb

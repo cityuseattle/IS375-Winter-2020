@@ -1,0 +1,11 @@
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.deps.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.dev.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.dll
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csprojAssemblyReference.cache
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfoInputs.cache
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfo.cs
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.dll
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.pdb

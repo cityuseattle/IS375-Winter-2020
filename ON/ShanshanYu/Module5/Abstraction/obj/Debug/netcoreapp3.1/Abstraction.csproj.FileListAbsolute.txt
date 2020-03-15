@@ -1,0 +1,11 @@
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module5\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb

@@ -1,0 +1,10 @@
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb

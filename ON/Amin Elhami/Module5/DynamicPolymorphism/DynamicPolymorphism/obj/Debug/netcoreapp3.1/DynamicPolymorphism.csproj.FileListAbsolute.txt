@@ -1,0 +1,10 @@
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.exe
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.deps.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.runtimeconfig.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.runtimeconfig.dev.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\netcoreapp3.1\DynamicPolymorphism.pdb
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.AssemblyInfo.cs
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module5\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\netcoreapp3.1\DynamicPolymorphism.pdb

@@ -1,0 +1,11 @@
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/bin/Debug/netcoreapp3.1/DynamicPolymorphism
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/bin/Debug/netcoreapp3.1/DynamicPolymorphism.deps.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/bin/Debug/netcoreapp3.1/DynamicPolymorphism.runtimeconfig.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/bin/Debug/netcoreapp3.1/DynamicPolymorphism.runtimeconfig.dev.json
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/bin/Debug/netcoreapp3.1/DynamicPolymorphism.dll
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/bin/Debug/netcoreapp3.1/DynamicPolymorphism.pdb
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/obj/Debug/netcoreapp3.1/DynamicPolymorphism.csprojAssemblyReference.cache
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/obj/Debug/netcoreapp3.1/DynamicPolymorphism.AssemblyInfoInputs.cache
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/obj/Debug/netcoreapp3.1/DynamicPolymorphism.AssemblyInfo.cs
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/obj/Debug/netcoreapp3.1/DynamicPolymorphism.dll
+/Users/gabbywargin/Desktop/Second Quarter/IS 375 - C#/IS375_Winter_2020/ON/GabrielaWargin/Module5/DynamicPolymorphism/DynamicPolymorphism/obj/Debug/netcoreapp3.1/DynamicPolymorphism.pdb

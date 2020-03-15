@@ -1,0 +1,17 @@
+D:\C#\HelloWPF\bin\Debug\netcoreapp3.1\HelloWPF.exe
+D:\C#\HelloWPF\bin\Debug\netcoreapp3.1\HelloWPF.deps.json
+D:\C#\HelloWPF\bin\Debug\netcoreapp3.1\HelloWPF.runtimeconfig.json
+D:\C#\HelloWPF\bin\Debug\netcoreapp3.1\HelloWPF.runtimeconfig.dev.json
+D:\C#\HelloWPF\bin\Debug\netcoreapp3.1\HelloWPF.dll
+D:\C#\HelloWPF\bin\Debug\netcoreapp3.1\HelloWPF.pdb
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.csprojAssemblyReference.cache
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\App.g.cs
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF_MarkupCompile.cache
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF_MarkupCompile.lref
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.g.resources
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.AssemblyInfoInputs.cache
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.AssemblyInfo.cs
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.dll
+D:\C#\HelloWPF\obj\Debug\netcoreapp3.1\HelloWPF.pdb
