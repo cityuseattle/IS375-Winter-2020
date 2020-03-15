@@ -1,0 +1,12 @@
+/Users/qumeina/Projects/HelloForm/HelloForm/bin/Debug/HelloForm.exe
+/Users/qumeina/Projects/HelloForm/HelloForm/bin/Debug/HelloForm.pdb
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/actool/_PartialAppManifest.items
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.csprojAssemblyReference.cache
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.exe
+/Users/qumeina/Projects/HelloForm/HelloForm/obj/Debug/HelloForm.pdb

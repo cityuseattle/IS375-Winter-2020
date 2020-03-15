@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/Encapsulation/Encapsulation/bin/Debug/Encapsulation.exe
+/Users/qumeina/Projects/Encapsulation/Encapsulation/bin/Debug/Encapsulation.pdb
+/Users/qumeina/Projects/Encapsulation/Encapsulation/obj/Debug/Encapsulation.csprojAssemblyReference.cache
+/Users/qumeina/Projects/Encapsulation/Encapsulation/obj/Debug/Encapsulation.exe
+/Users/qumeina/Projects/Encapsulation/Encapsulation/obj/Debug/Encapsulation.pdb

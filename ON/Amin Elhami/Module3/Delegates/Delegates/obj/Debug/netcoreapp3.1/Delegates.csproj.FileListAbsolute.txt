@@ -1,0 +1,11 @@
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module3\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb

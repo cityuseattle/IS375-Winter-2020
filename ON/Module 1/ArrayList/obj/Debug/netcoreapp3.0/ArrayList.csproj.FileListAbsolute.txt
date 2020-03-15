@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\obj\Debug\netcoreapp3.0\ArrayList.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\obj\Debug\netcoreapp3.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\obj\Debug\netcoreapp3.0\ArrayList.AssemblyInfo.cs
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\bin\Debug\netcoreapp3.0\ArrayList.exe
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\bin\Debug\netcoreapp3.0\ArrayList.deps.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\bin\Debug\netcoreapp3.0\ArrayList.runtimeconfig.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\bin\Debug\netcoreapp3.0\ArrayList.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\bin\Debug\netcoreapp3.0\ArrayList.dll
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\bin\Debug\netcoreapp3.0\ArrayList.pdb
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\obj\Debug\netcoreapp3.0\ArrayList.dll
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\ArrayList\obj\Debug\netcoreapp3.0\ArrayList.pdb

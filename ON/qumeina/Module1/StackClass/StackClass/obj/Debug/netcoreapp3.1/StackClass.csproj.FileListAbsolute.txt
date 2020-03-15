@@ -1,0 +1,11 @@
+/Users/qumeina/Projects/StackClass/StackClass/bin/Debug/netcoreapp3.1/StackClass
+/Users/qumeina/Projects/StackClass/StackClass/bin/Debug/netcoreapp3.1/StackClass.deps.json
+/Users/qumeina/Projects/StackClass/StackClass/bin/Debug/netcoreapp3.1/StackClass.runtimeconfig.json
+/Users/qumeina/Projects/StackClass/StackClass/bin/Debug/netcoreapp3.1/StackClass.runtimeconfig.dev.json
+/Users/qumeina/Projects/StackClass/StackClass/bin/Debug/netcoreapp3.1/StackClass.dll
+/Users/qumeina/Projects/StackClass/StackClass/bin/Debug/netcoreapp3.1/StackClass.pdb
+/Users/qumeina/Projects/StackClass/StackClass/obj/Debug/netcoreapp3.1/StackClass.csprojAssemblyReference.cache
+/Users/qumeina/Projects/StackClass/StackClass/obj/Debug/netcoreapp3.1/StackClass.AssemblyInfoInputs.cache
+/Users/qumeina/Projects/StackClass/StackClass/obj/Debug/netcoreapp3.1/StackClass.AssemblyInfo.cs
+/Users/qumeina/Projects/StackClass/StackClass/obj/Debug/netcoreapp3.1/StackClass.dll
+/Users/qumeina/Projects/StackClass/StackClass/obj/Debug/netcoreapp3.1/StackClass.pdb

@@ -1,0 +1,11 @@
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Debug/netcoreapp3.1/TwoDimensionalArray.csprojAssemblyReference.cache
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Debug/netcoreapp3.1/TwoDimensionalArray.AssemblyInfoInputs.cache
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Debug/netcoreapp3.1/TwoDimensionalArray.AssemblyInfo.cs
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Debug/netcoreapp3.1/TwoDimensionalArray
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Debug/netcoreapp3.1/TwoDimensionalArray.deps.json
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Debug/netcoreapp3.1/TwoDimensionalArray.runtimeconfig.json
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Debug/netcoreapp3.1/TwoDimensionalArray.runtimeconfig.dev.json
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Debug/netcoreapp3.1/TwoDimensionalArray.dll
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/bin/Debug/netcoreapp3.1/TwoDimensionalArray.pdb
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Debug/netcoreapp3.1/TwoDimensionalArray.dll
+/Users/qumeina/Projects/TwoDimensionalArray/TwoDimensionalArray/obj/Debug/netcoreapp3.1/TwoDimensionalArray.pdb
