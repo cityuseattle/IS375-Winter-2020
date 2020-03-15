@@ -1,0 +1,9 @@
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\bin\Debug\AminElhamiPE04.exe.config
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\bin\Debug\AminElhamiPE04.exe
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\bin\Debug\AminElhamiPE04.pdb
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\obj\Debug\AminElhamiPE04.csprojAssemblyReference.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\obj\Debug\AminElhamiPE04.Form1.resources
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\obj\Debug\AminElhamiPE04.Properties.Resources.resources
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\obj\Debug\AminElhamiPE04.csproj.GenerateResource.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\obj\Debug\AminElhamiPE04.exe
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\AminElhamiPE04\AminElhamiPE04\obj\Debug\AminElhamiPE04.pdb
