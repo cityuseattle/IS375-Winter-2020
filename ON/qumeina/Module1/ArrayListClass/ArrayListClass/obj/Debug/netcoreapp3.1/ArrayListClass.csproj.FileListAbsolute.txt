@@ -1,0 +1,11 @@
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/bin/Debug/netcoreapp3.1/ArrayListClass
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/bin/Debug/netcoreapp3.1/ArrayListClass.deps.json
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/bin/Debug/netcoreapp3.1/ArrayListClass.runtimeconfig.json
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/bin/Debug/netcoreapp3.1/ArrayListClass.runtimeconfig.dev.json
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/bin/Debug/netcoreapp3.1/ArrayListClass.dll
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/bin/Debug/netcoreapp3.1/ArrayListClass.pdb
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/obj/Debug/netcoreapp3.1/ArrayListClass.csprojAssemblyReference.cache
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/obj/Debug/netcoreapp3.1/ArrayListClass.AssemblyInfoInputs.cache
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/obj/Debug/netcoreapp3.1/ArrayListClass.AssemblyInfo.cs
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/obj/Debug/netcoreapp3.1/ArrayListClass.dll
+/Users/qumeina/Projects/ArrayListClass/ArrayListClass/obj/Debug/netcoreapp3.1/ArrayListClass.pdb

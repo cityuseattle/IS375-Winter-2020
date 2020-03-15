@@ -1,0 +1,11 @@
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.deps.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.runtimeconfig.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.runtimeconfig.dev.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\bin\Debug\netcoreapp3.1\ReadingFiles.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.AssemblyInfoInputs.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.AssemblyInfo.cs
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\ReadingFiles\ReadingFiles\obj\Debug\netcoreapp3.1\ReadingFiles.pdb

@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/StaticPolymprphism/StaticPolymprphism/bin/Debug/StaticPolymprphism.exe
+/Users/qumeina/Projects/StaticPolymprphism/StaticPolymprphism/bin/Debug/StaticPolymprphism.pdb
+/Users/qumeina/Projects/StaticPolymprphism/StaticPolymprphism/obj/Debug/StaticPolymprphism.csprojAssemblyReference.cache
+/Users/qumeina/Projects/StaticPolymprphism/StaticPolymprphism/obj/Debug/StaticPolymprphism.exe
+/Users/qumeina/Projects/StaticPolymprphism/StaticPolymprphism/obj/Debug/StaticPolymprphism.pdb

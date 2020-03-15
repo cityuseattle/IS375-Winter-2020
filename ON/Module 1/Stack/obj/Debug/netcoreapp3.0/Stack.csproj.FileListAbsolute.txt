@@ -1,0 +1,10 @@
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\bin\Debug\netcoreapp3.0\Stack.exe
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\bin\Debug\netcoreapp3.0\Stack.deps.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\bin\Debug\netcoreapp3.0\Stack.runtimeconfig.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\bin\Debug\netcoreapp3.0\Stack.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\bin\Debug\netcoreapp3.0\Stack.dll
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\bin\Debug\netcoreapp3.0\Stack.pdb
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\obj\Debug\netcoreapp3.0\Stack.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\obj\Debug\netcoreapp3.0\Stack.AssemblyInfo.cs
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\obj\Debug\netcoreapp3.0\Stack.dll
+C:\Users\Nicolas Conti\Desktop\City University\IS375\GitHub\ON\NicConti\Module1\Stack\obj\Debug\netcoreapp3.0\Stack.pdb

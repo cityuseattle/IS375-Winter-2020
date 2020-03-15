@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/qumeina/.dotnet/store/|arch|/|tfm|",
+      "/Users/qumeina/.nuget/packages"
+    ]
+  }
+}

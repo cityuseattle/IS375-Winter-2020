@@ -1,0 +1,11 @@
+/Users/qumeina/Projects/QueueClass/QueueClass/bin/Debug/netcoreapp3.1/QueueClass
+/Users/qumeina/Projects/QueueClass/QueueClass/bin/Debug/netcoreapp3.1/QueueClass.deps.json
+/Users/qumeina/Projects/QueueClass/QueueClass/bin/Debug/netcoreapp3.1/QueueClass.runtimeconfig.json
+/Users/qumeina/Projects/QueueClass/QueueClass/bin/Debug/netcoreapp3.1/QueueClass.runtimeconfig.dev.json
+/Users/qumeina/Projects/QueueClass/QueueClass/bin/Debug/netcoreapp3.1/QueueClass.dll
+/Users/qumeina/Projects/QueueClass/QueueClass/bin/Debug/netcoreapp3.1/QueueClass.pdb
+/Users/qumeina/Projects/QueueClass/QueueClass/obj/Debug/netcoreapp3.1/QueueClass.csprojAssemblyReference.cache
+/Users/qumeina/Projects/QueueClass/QueueClass/obj/Debug/netcoreapp3.1/QueueClass.AssemblyInfoInputs.cache
+/Users/qumeina/Projects/QueueClass/QueueClass/obj/Debug/netcoreapp3.1/QueueClass.AssemblyInfo.cs
+/Users/qumeina/Projects/QueueClass/QueueClass/obj/Debug/netcoreapp3.1/QueueClass.dll
+/Users/qumeina/Projects/QueueClass/QueueClass/obj/Debug/netcoreapp3.1/QueueClass.pdb

@@ -1,0 +1,11 @@
+/Users/qumeina/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable
+/Users/qumeina/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.deps.json
+/Users/qumeina/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.runtimeconfig.json
+/Users/qumeina/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.runtimeconfig.dev.json
+/Users/qumeina/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.dll
+/Users/qumeina/Projects/HashTable/HashTable/bin/Debug/netcoreapp3.1/HashTable.pdb
+/Users/qumeina/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.csprojAssemblyReference.cache
+/Users/qumeina/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.AssemblyInfoInputs.cache
+/Users/qumeina/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.AssemblyInfo.cs
+/Users/qumeina/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.dll
+/Users/qumeina/Projects/HashTable/HashTable/obj/Debug/netcoreapp3.1/HashTable.pdb

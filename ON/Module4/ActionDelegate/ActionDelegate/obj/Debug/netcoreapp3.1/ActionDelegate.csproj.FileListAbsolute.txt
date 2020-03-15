@@ -1,0 +1,11 @@
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.deps.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.runtimeconfig.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.runtimeconfig.dev.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.AssemblyInfoInputs.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.AssemblyInfo.cs
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.pdb

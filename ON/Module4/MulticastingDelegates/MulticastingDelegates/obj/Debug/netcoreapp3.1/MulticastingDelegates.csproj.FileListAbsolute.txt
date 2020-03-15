@@ -1,0 +1,11 @@
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.deps.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.runtimeconfig.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.runtimeconfig.dev.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.AssemblyInfoInputs.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.AssemblyInfo.cs
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\Module4\MulticastingDelegates\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.pdb
