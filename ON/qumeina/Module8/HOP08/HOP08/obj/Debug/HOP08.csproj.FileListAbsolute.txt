@@ -1,0 +1,10 @@
+C:\Users\85339\source\repos\HOP08\HOP08\bin\Debug\HOP08.exe.config
+C:\Users\85339\source\repos\HOP08\HOP08\bin\Debug\HOP08.exe
+C:\Users\85339\source\repos\HOP08\HOP08\bin\Debug\HOP08.pdb
+C:\Users\85339\source\repos\HOP08\HOP08\obj\Debug\HOP08.csprojAssemblyReference.cache
+C:\Users\85339\source\repos\HOP08\HOP08\obj\Debug\HOP08.Form1.resources
+C:\Users\85339\source\repos\HOP08\HOP08\obj\Debug\HOP08.Properties.Resources.resources
+C:\Users\85339\source\repos\HOP08\HOP08\obj\Debug\HOP08.csproj.GenerateResource.cache
+C:\Users\85339\source\repos\HOP08\HOP08\obj\Debug\HOP08.csproj.CoreCompileInputs.cache
+C:\Users\85339\source\repos\HOP08\HOP08\obj\Debug\HOP08.exe
+C:\Users\85339\source\repos\HOP08\HOP08\obj\Debug\HOP08.pdb
