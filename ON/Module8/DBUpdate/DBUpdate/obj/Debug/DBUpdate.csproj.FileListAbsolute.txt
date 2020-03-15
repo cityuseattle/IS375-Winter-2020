@@ -1,0 +1,9 @@
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\bin\Debug\DBUpdate.exe.config
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\bin\Debug\DBUpdate.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\bin\Debug\DBUpdate.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\obj\Debug\DBUpdate.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\obj\Debug\DBUpdate.Form1.resources
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\obj\Debug\DBUpdate.Properties.Resources.resources
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\obj\Debug\DBUpdate.csproj.GenerateResource.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\obj\Debug\DBUpdate.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module8\DBUpdate\DBUpdate\obj\Debug\DBUpdate.pdb

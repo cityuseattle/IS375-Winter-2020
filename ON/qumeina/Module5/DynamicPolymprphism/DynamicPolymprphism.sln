@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPolymprphism", "DynamicPolymprphism\DynamicPolymprphism.csproj", "{4E025E2D-0DD7-4ECD-AED7-3082FFDD27CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E025E2D-0DD7-4ECD-AED7-3082FFDD27CB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4E025E2D-0DD7-4ECD-AED7-3082FFDD27CB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4E025E2D-0DD7-4ECD-AED7-3082FFDD27CB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4E025E2D-0DD7-4ECD-AED7-3082FFDD27CB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

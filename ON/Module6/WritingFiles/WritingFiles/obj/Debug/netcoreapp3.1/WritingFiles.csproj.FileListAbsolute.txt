@@ -1,0 +1,11 @@
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.exe
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.deps.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.runtimeconfig.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.runtimeconfig.dev.json
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.pdb
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.csprojAssemblyReference.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.AssemblyInfoInputs.cache
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.AssemblyInfo.cs
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.dll
+C:\Users\gabby\OneDrive\Desktop\C++ Intermediate\IS375-Winter-2020\ON\GabrielaWargin\Module6\WritingFiles\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.pdb

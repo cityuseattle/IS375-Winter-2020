@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{B4A0035D-DBD3-4619-AB82-70593AAACA6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormValidation/Pages/Success.cshtml.cs">
+    <Files>
+      <File FileName="../../.nuget/packages/microsoft.aspnetcore.razor.design/2.2.0/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets" Line="77" Column="17" />
+      <File FileName="FormValidation/Models/Account.cs" Line="1" Column="1" />
+      <File FileName="FormValidation/Pages/Index.cshtml" Line="6" Column="1" />
+      <File FileName="FormValidation/Pages/Success.cshtml.cs" Line="7" Column="1" />
+      <File FileName="FormValidation/Pages/Success.cshtml" Line="2" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormValidation" expanded="True">
+            <Node name="FormValidation" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+                <Node name="Success.cshtml" expanded="True">
+                  <Node name="Success.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FormValidation PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

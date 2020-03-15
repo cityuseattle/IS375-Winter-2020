@@ -1,0 +1,10 @@
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.exe
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.deps.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.runtimeconfig.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.runtimeconfig.dev.json
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.pdb
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.AssemblyInfo.cs
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.dll
+C:\Users\Amin\Desktop\Courses\IS375-Winter-2020\ON\Amin Elhami\Module4\ActionDelegates\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.pdb

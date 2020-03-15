@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloForm", "HelloForm\HelloForm.csproj", "{7DCBE10B-8290-42B3-A5E6-8AD99DFE103D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCBE10B-8290-42B3-A5E6-8AD99DFE103D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCBE10B-8290-42B3-A5E6-8AD99DFE103D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCBE10B-8290-42B3-A5E6-8AD99DFE103D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCBE10B-8290-42B3-A5E6-8AD99DFE103D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C8EB7F-1D29-4E5C-9704-AEF8B2DE872C}
+	EndGlobalSection
+EndGlobal
