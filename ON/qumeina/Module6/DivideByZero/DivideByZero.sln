@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideByZero", "DivideByZero\DivideByZero.csproj", "{CF450AB7-0759-4000-ABAD-1F625CAC5032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF450AB7-0759-4000-ABAD-1F625CAC5032}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CF450AB7-0759-4000-ABAD-1F625CAC5032}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CF450AB7-0759-4000-ABAD-1F625CAC5032}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CF450AB7-0759-4000-ABAD-1F625CAC5032}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

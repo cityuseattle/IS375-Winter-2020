@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C5643AB3-1952-4927-9E97-EA6E1E58BAE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StaticPolymprphism/Program.cs">
+    <Files>
+      <File FileName="StaticPolymprphism/Program.cs" Line="32" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StaticPolymprphism" expanded="True">
+            <Node name="StaticPolymprphism" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StaticPolymprphism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

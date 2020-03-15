@@ -1,0 +1,5 @@
+/Users/qumeina/Projects/Inheritance/Inheritance/bin/Debug/Inheritance.exe
+/Users/qumeina/Projects/Inheritance/Inheritance/bin/Debug/Inheritance.pdb
+/Users/qumeina/Projects/Inheritance/Inheritance/obj/Debug/Inheritance.csprojAssemblyReference.cache
+/Users/qumeina/Projects/Inheritance/Inheritance/obj/Debug/Inheritance.exe
+/Users/qumeina/Projects/Inheritance/Inheritance/obj/Debug/Inheritance.pdb
