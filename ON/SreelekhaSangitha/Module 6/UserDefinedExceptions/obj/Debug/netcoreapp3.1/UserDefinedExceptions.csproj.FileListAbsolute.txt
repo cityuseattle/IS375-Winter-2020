@@ -1,0 +1,11 @@
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.csprojAssemblyReference.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.AssemblyInfoInputs.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.AssemblyInfo.cs
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.exe
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.deps.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.runtimeconfig.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.runtimeconfig.dev.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.pdb
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.pdb

@@ -1,0 +1,10 @@
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.exe
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.deps.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.runtimeconfig.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.runtimeconfig.dev.json
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\bin\Debug\netcoreapp3.1\StaticPolymorphism.pdb
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.AssemblyInfoInputs.cache
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.AssemblyInfo.cs
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.dll
+C:\Users\sangi\source\repos\sreelekhasangitha\IS375-Winter-2020\ON\SreelekhaSangitha\Module 5\StaticPolymorphism\obj\Debug\netcoreapp3.1\StaticPolymorphism.pdb
