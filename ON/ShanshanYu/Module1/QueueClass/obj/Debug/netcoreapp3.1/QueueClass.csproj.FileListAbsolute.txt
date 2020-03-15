@@ -1,0 +1,10 @@
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.exe
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.deps.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.runtimeconfig.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.runtimeconfig.dev.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.dll
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.pdb
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.AssemblyInfoInputs.cache
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.AssemblyInfo.cs
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.dll
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.pdb

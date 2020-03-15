@@ -1,0 +1,11 @@
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.csprojAssemblyReference.cache
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.AssemblyInfoInputs.cache
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.AssemblyInfo.cs
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.exe
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.deps.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.runtimeconfig.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.runtimeconfig.dev.json
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.dll
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.pdb
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.dll
+D:\IS375_Winter_2020\ON\ShanshanYu\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.pdb

@@ -1,0 +1,9 @@
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\bin\Debug\DBConnection.exe.config
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\bin\Debug\DBConnection.exe
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\bin\Debug\DBConnection.pdb
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\obj\Debug\DBConnection.Form1.resources
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\obj\Debug\DBConnection.exe
+D:\IS375-Winter-2020\ON\ShanshanYu\Module7\DBConnection\obj\Debug\DBConnection.pdb

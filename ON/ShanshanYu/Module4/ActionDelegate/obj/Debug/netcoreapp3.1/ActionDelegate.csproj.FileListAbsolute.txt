@@ -1,0 +1,11 @@
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.exe
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.deps.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.runtimeconfig.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.runtimeconfig.dev.json
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.pdb
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.csprojAssemblyReference.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.AssemblyInfoInputs.cache
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.AssemblyInfo.cs
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.dll
+D:\IS375-Winter-2020\ON\ShanshanYu\Module4\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.pdb
